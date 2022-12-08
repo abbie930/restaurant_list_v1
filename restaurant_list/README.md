@@ -1,7 +1,7 @@
 # 我的餐廳清單 My restaurant List
 一個餐廳清單網站，可以瀏覽餐廳並查看詳細資訊。
 
-![cover](/public/image/cover_restaurant_list.png)
+![cover](./public/image/cover_restaurant_list.png)
 
 
 
