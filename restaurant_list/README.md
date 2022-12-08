@@ -17,7 +17,7 @@
 2. 打開終端機(Terminal)，將專案 clone 至本機位置
 
 ```
-git clone https://github.com/abbie930/AC-project/tree/master/restaurant_list.git
+git clone 
 ```
 3. 進入存放此專案的資料夾
 
